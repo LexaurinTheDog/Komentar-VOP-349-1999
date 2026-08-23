@@ -20,6 +20,11 @@ Zákon je strukturován do čtyř částí: obecná ustanovení (postavení, vol
 
 Zákon rozlišuje dvě kategorie cílů: ochranu základních práv a svobod (klasická ombudsmanská funkce reagující na konkrétní podněty i procesy podle §§ 21a a násl.) a prosazování principů dobré správy — kategorii, která není v zákoně dále legálně definována, ale v ustálené praxi ochránce zahrnuje zásady jako transparentnost, předvídatelnost, efektivnost, ochranu dobré víry, přiměřenost a řádné odůvodňování rozhodnutí. § 1 sám o sobě nezakládá žádná konkrétní oprávnění ani povinnosti; jeho normativní obsah se realizuje až prostřednictvím navazujících ustanovení (zejména § 1a a § 1b), která teprve vymezují okruh subjektů podléhajících dozoru a konkrétní nástroje ochránce.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1638/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45CAC731ECBBD348C1258B8E004D4185?openDocument) — 30. 7. 2024, kat. A
+  > „Veřejný ochránce práv nemá pravomoc konstatovat nezákonnost rozhodnutí způsobem, kterým by zakládal, měnil, či rušil právní poměry osob, a jeho závěrem o pochybení státního orgánu není vázán soud ani při posuzování splnění předpokladů vzniku odpovědnosti z výkonu veřejné moci. To platí i tehdy, kdy zpráva veřejného ochránce práv měla ve svých důsledcích pozitivní dopad do právních poměrů stěžovatele"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Advokátní kancelář se na veřejného ochránce práv obrátí s dotazem, zda může podat podnět proti soudu, který podle jejího názoru nepřiměřeně protahuje řízení o výživném, a zároveň proti obecnímu úřadu, který ve stejné věci nevydal potvrzení o trvalém pobytu dítěte v zákonné lhůtě.
@@ -1114,6 +1119,11 @@ Odstavec 2 ukládá mlčenlivost o skutečnostech zjištěných při výkonu fun
 
 § 18 upravuje postup při zjištění porušení právních předpisů či jiných pochybení — jde o klíčové ustanovení konstruující dvoufázový mechanismus nápravy bez přímé sankční pravomoci ochránce. Odstavec 1 ukládá ochránci vyzvat úřad, aby se ve lhůtě 30 dnů vyjádřil ke zjištěním. Odstavec 2 řeší dvě varianty reakce úřadu: (i) pokud úřad sdělí, že provedl nebo provádí nápravná opatření, a ochránce je shledá dostatečnými, věc končí vyrozuměním stěžovatele i úřadu (obdobně jako u § 17); (ii) jinak — tedy při nedostatečnosti opatření, nebo marném uplynutí lhůty — ochránce vydá písemné závěrečné stanovisko obsahující návrh opatření k nápravě, adresované úřadu i stěžovateli. Závěrečné stanovisko je nejsilnějším nástrojem v „základní" šetřicí agendě, avšak stále bez právní závaznosti — je to podklad pro navazující eskalační mechanismus podle § 20.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1638/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45CAC731ECBBD348C1258B8E004D4185?openDocument) — 30. 7. 2024, kat. A
+  > „Veřejný ochránce práv nemá pravomoc konstatovat nezákonnost rozhodnutí způsobem, kterým by zakládal, měnil, či rušil právní poměry osob, a jeho závěrem o pochybení státního orgánu není vázán soud ani při posuzování splnění předpokladů vzniku odpovědnosti z výkonu veřejné moci. To platí i tehdy, kdy zpráva veřejného ochránce práv měla ve svých důsledcích pozitivní dopad do právních poměrů stěžovatele"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ochránce zjistí, že správní orgán opakovaně nedodržuje lhůty pro vydání rozhodnutí ve stovkách obdobných věcí (systémový problém). Vyzve úřad k vyjádření podle odst. 1; úřad ve lhůtě sdělí, že „situaci prověří", aniž by uvedl konkrétní opatření.
@@ -1163,6 +1173,11 @@ Odstavec 2 ukládá mlčenlivost o skutečnostech zjištěných při výkonu fun
 **Výklad:**
 
 § 19 obsahuje demonstrativní katalog opatření k nápravě, která může ochránce navrhnout v závěrečném stanovisku podle § 18 odst. 2 (uvozovací věta „zejména" naznačuje, že výčet není taxativní). Zahrnuje zahájení přezkumného řízení z úřední moci (písm. a), odstranění nečinnosti (písm. b), zahájení disciplinárního nebo obdobného řízení vůči odpovědným osobám (písm. c), zahájení stíhání pro trestný čin, přestupek nebo jiný správní delikt (písm. d), a poskytnutí či uplatnění náhrady škody (písm. e). Ochránce sám tato opatření neprovádí — může je pouze navrhnout příslušnému úřadu, který má výlučnou pravomoc o jejich provedení rozhodnout; jde tedy o doporučující, nikoli přímo vykonávací mechanismus.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1638/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/45CAC731ECBBD348C1258B8E004D4185?openDocument) — 30. 7. 2024, kat. A
+  > „Veřejný ochránce práv nemá pravomoc konstatovat nezákonnost rozhodnutí způsobem, kterým by zakládal, měnil, či rušil právní poměry osob, a jeho závěrem o pochybení státního orgánu není vázán soud ani při posuzování splnění předpokladů vzniku odpovědnosti z výkonu veřejné moci. To platí i tehdy, kdy zpráva veřejného ochránce práv měla ve svých důsledcích pozitivní dopad do právních poměrů stěžovatele"
 
 #### F. Kazuistika
 
